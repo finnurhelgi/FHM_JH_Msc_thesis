@@ -1,5 +1,5 @@
 This code was created in connection with our master thesis; System Identification of Active Devices for Frequency Domain Studies.
-Written with support from Siemens Gamesa Renewable Energy (SGRE)
+Written with support from Siemens Gamesa Renewable Energy (SGRE).
 As there are some aspects of the thesis, namely the contents of chapter 4 of the thesis, which use data from SGRE,
 this code is not meant to replicate every step of the thesis, but rather supplement the explaination of the system identification
 process outlined in the report.
